@@ -22,4 +22,4 @@ Static site. Point Vercel/Netlify at this folder.
 
 ## Author
 
-Biruk Endrias — https://iambiruk.com
+Biruk Endrias — https://iambiruk.vercel.app
